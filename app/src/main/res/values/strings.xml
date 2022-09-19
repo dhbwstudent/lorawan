@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaselineLoRaWAN</string>
+
+    <string name="description">Dieses Projekt wurde im Rahmen einer Studienarbeit umgesetzt. Es werden die Daten von verschiedenen Geräten im LoRaWAN Netzwerk gesammelt. Diese werden in einer Cloud gespeichert.Mit der App können diese Daten dann aufgerufen werden. Mit der App kann ebenfalls die abgebildete Pumpe angesteuert werden.</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">E8QkHu2YdKZTEdYowLBTVidBYIysamvTmRY00Wbl</string>
+    <string name="back4app_client_key">yeiPW9Fu7Y8Xm2yZ82CdXw2fSDd0I2TnDksxRXMM</string>
+</resources>
